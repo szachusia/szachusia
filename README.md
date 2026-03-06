@@ -1,9 +1,9 @@
 ### 👋 Hi, I'm Oliwia
-* 🎓 **Education**: 3rd-year Computer Science student at Gdańsk University of Technology
+* 🎓 **Education**: 3rd-year **Computer Science** student at Gdańsk University of Technology
 * 🎯 **Interests**: Algorithms, Game Theory, and High-Performance C++
 * 💻 **Tech Stack**: C++ (STL-free implementations), Python (PyTorch, Pygame)
 * 🃏 **Currently**: Building a Poker Solver using Counterfactual Regret Minimization (CFR)
-* 📫 **Contact**: blaszczuk.oliwia5@gmail.com
+* 📫 **Contact**: **blaszczuk.oliwia5@gmail.com**
 
 ## Languages and Tools:
 <p>
@@ -11,5 +11,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" height="40" alt="Unreal Engine" style="background-color: white; border-radius: 4px; padding: 2px;"/>
+  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" height="40" alt="Unreal Engine"/>
 </p>
